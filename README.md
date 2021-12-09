@@ -5,7 +5,7 @@
 PennySwap is an automated market-making (AMM) decentralized exchange (DEX) for the Syscoin Mainnet. Different from other DEXs, we're invested in building a strong foundation with our PNE token as a governance token, diverse farms, and user-centered service. 
 
 
-**Main feautres**:
+**Main features**:
 - automatic split route to provide best rate with low slippage
 - low swap fee of 0.2% for each trade
 - secure code base as we are a folk of UniswapV2 which is well battle tested 

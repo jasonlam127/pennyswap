@@ -3,6 +3,7 @@
 1. **Install MetaMask extension to your browser**
     1. Add MetaMask extension to your browser.
     2. Create a wallet according to the instructions, and store your private key and recovery phrases safely.
+
 ![metamask](https://i.ibb.co/44LN2Qh/metamask.png)
 
 2. **MetaMask Setting**
@@ -14,6 +15,7 @@
         * Chain ID：57
         * Currency Symbol: SYS
         * Block Explorer URL：https://explorer.syscoin.org
+        
 ![custom_rpc](https://i.ibb.co/3kVwpHv/metamask-setting.jpg)
 
 3. **Switch Networks**
