@@ -3,8 +3,7 @@
 1. **Install MetaMask extension to your browser**
     1. Add MetaMask extension to your browser.
     2. Create a wallet according to the instructions, and store your private key and recovery phrases safely.
-![metamask](https://i.ibb.co/3kVwpHv/metamask-setting.jpg
-https://i.ibb.co/44LN2Qh/metamask.png)
+![metamask](https://i.ibb.co/44LN2Qh/metamask.png)
 
 2. **MetaMask Setting**
     1. Click Networks drop down button at the top;
