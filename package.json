@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "gitbook": "^2.6.9",
+    "gitbook-cli": "^2.3.2"
+  },
+  "name": "gitbook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "resolutions": {
+    "graceful-fs": "4.2.4"
+  },
+  "scripts": {
+    "init": "gitbook init",
+    "start": "gitbook serve",
+    "build": "gitbook build"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
