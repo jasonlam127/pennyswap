@@ -6,7 +6,7 @@
 
 ![metamask](https://i.ibb.co/44LN2Qh/metamask.png)
 
-- 2. **MetaMask Setting**
+- **2. MetaMask Setting**
     1. Click Networks drop down button at the top;
     2. Select Custom RPC;
     3. Fill in each parameter with the following information then Save:
