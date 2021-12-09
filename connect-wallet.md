@@ -22,6 +22,7 @@
     1. Click Networks drop down button at the top;
     2. After setting the networks, switch to **Syscoin Mainnet**.
 
+
 - **4. Enter PennySwap and connect to a wallet**
 
     Enter our website, select Networks after clicking on Connect to Wallet, login the wallet. After login, the wallet address will be displayed in the upper right corner.

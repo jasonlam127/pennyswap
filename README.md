@@ -16,11 +16,11 @@ PennySwap is an automated market-making (AMM) decentralized exchange (DEX) for t
 1. A MetaMask wallet, learn how to set one up on Connect Wallet section.
 2. If you're not already on the Syscoin NEVM Mainnet and need to bridge from Syscoin Base Chain, please follow this guide [here](https://google.com)
 
-Need help? Join our discord [discord.gg/AqbsWsWDgn](https://discord.gg/AqbsWsWDgn)
+Need help? Join our discord [discord.gg/pM4UfmbrqZ](https://discord.gg/pM4UfmbrqZ)
 
 ---
 ## Join our community for the latest updates
 
-- Twitter https://twitter.com/SpookySwap
-- Discord [discord.gg/AqbsWsWDgn](https://discord.gg/MWzXEy5VzX)
-- Telegram https://t.me/spookyswap
+- Twitter [twitter.com/PennyswapFi](https://twitter.com/PennyswapFi)
+- Discord [discord.gg/pM4UfmbrqZ](https://discord.gg/pM4UfmbrqZ)
+- Telegram [t.me/pennyswap166](https://t.me/pennyswap166)

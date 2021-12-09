@@ -1,5 +1,5 @@
 # Contact Us
 
-- Twitter https://twitter.com/SpookySwap
-- Discord [discord.gg/AqbsWsWDgn](https://discord.gg/MWzXEy5VzX)
-- Telegram https://t.me/spookyswap
+- Twitter [twitter.com/PennyswapFi](https://twitter.com/PennyswapFi)
+- Discord [discord.gg/pM4UfmbrqZ](https://discord.gg/pM4UfmbrqZ)
+- Telegram [t.me/pennyswap166](https://t.me/pennyswap166)
