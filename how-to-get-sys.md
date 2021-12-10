@@ -7,7 +7,7 @@
 3. Install [metamask](https://data166.gitbook.io/pennyswap/connect-wallet) and get a Syscoin mainnet address like this: 0x.....
 3. Use SYS => NEVM bridge to transfer SYS to Syscoin mainnet
     1. Go to official bridge website [https://bridge.syscoin.org/](https://bridge.syscoin.org/)
-    2. Get some sys on Syscoin mainnet from [faucet](https://faucet.syscoin.org/) for gas, its required for step 4 below (SYSX->NEVM)
+    2. Get some SYS on Syscoin mainnet from [faucet](https://faucet.syscoin.org/) for gas, its required for step 4 below (SYSX->NEVM)
     3. Click "SYS->SYSX" button to convert SYS to SYSX
     4. Click "SYSX->NEVM" button to convert SYSX to SYS(Syscoin mainnet)
 4. Follow the instruction on the website
