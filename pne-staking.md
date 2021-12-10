@@ -16,7 +16,3 @@ Now, User B deposits 10 PNE to the pool and since the ratio is now 1 : 2, they g
 
 The ratio only changes as more PNE is emitted which is then sent to the pool and split equally among all xPNE holders, because each xPNE becomes worth more PNE (the share of PNE went up).
 
-
----
-
-PNE APR Formula: PNE output x PNE price / pool liquidity x 365 x 100
