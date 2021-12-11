@@ -13,7 +13,7 @@ PennySwap is an automated market-making (AMM) decentralized exchange (DEX) for t
 ---
 ## To start using PennySwap, you will need
 
-1. A MetaMask wallet, learn how to set one up on Connect Wallet section.
+1. A MetaMask wallet, learn how to set one up on [Connect Wallet](https://data166.gitbook.io/pennyswap/connect-wallet) section.
 2. If you're not already on the Syscoin NEVM Mainnet and need to bridge from Syscoin Base Chain, please follow this guide [here](https://data166.gitbook.io/pennyswap/how-to-get-sys)
 
 Need help? Join our discord [discord.gg/pM4UfmbrqZ](https://discord.gg/pM4UfmbrqZ)

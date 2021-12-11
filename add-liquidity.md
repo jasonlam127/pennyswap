@@ -64,9 +64,9 @@ Want to earn more with your liquidity? See the next section, Yield Farming for h
 
 Impermanent Loss (aka IL) is one of the risks you take on for being a liquidity provider and is a result of how AMMs function. Here are two articles to better explain it:
 
-https://pintail.medium.com/understanding-uniswap-returns-cc593f3499ef
+[https://pintail.medium.com/understanding-uniswap-returns-cc593f3499ef](https://pintail.medium.com/understanding-uniswap-returns-cc593f3499ef)
 
-https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22 
+[https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22) 
 
 They will give you an idea of what IL is and how you are affected by it. Stay tuned for more info!
 
